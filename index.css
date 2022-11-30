@@ -1,0 +1,269 @@
+#designtxt {
+  position: absolute;
+  left: 30px;
+  top: 20px;
+  font-size: 26px;
+  color: #a80000;
+}
+.menucontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+}
+#line {
+  position: absolute;
+  width: 70px;
+  height: 2px;
+  background-color: #2c2c2c;
+  border: 1px;
+  top: 50px;
+  left: 415px;
+}
+.menu {
+  padding: 20px;
+}
+#searchicn {
+  position: absolute;
+  top: 27px;
+  right: 140px;
+}
+#bag {
+  position: absolute;
+  top: 27px;
+  right: 100px;
+}
+#user {
+  position: absolute;
+  top: 27px;
+  right: 60px;
+}
+#up {
+  text-transform: uppercase;
+}
+#steakinfo {
+  display: block;
+  position: absolute;
+  top: 140px;
+  left: 30px;
+}
+h1 {
+  font-size: 60px;
+  color: #a80000;
+}
+.checkbox {
+  position: absolute;
+  width: 1.3em;
+  height: 1.3em;
+  top: 300px;
+  left: 33px;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+#mediumcheck {
+  position: absolute;
+  top: 3px;
+  left: 30px;
+}
+.checkbox2 {
+  position: absolute;
+  top: 300px;
+  left: 150px;
+  width: 1.3em;
+  height: 1.3em;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+#largecheck {
+  position: absolute;
+  top: 3px;
+  left: 30px;
+}
+.lin {
+  position: absolute;
+  top: 360px;
+  left: 65px;
+  width: 300px;
+  height: 3px;
+  background-color: #d9d9d9;
+}
+.cart {
+  position: absolute;
+  top: 420px;
+  left: 100px;
+  width: 120px;
+  height: 30px;
+  background-color: #a80000;
+  border-radius: 0px 0px 100px 0px;
+}
+#carttext {
+  position: absolute;
+  left: 18px;
+  top: 10px;
+  font-size: 14px;
+  color: white;
+}
+.table {
+  position: absolute;
+  top: 420px;
+  left: 250px;
+  width: 120px;
+  height: 30px;
+  background-color: #545454;
+  border-radius: 100px 0px 0px 0px;
+}
+#tabletext {
+  position: absolute;
+  left: 18px;
+  top: 10px;
+  font-size: 14px;
+  color: white;
+}
+.lookbook {
+  position: absolute;
+  top: 580px;
+  left: 100px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #545454;
+}
+#txtlook {
+  display: flex;
+  position: absolute;
+  top: 585px;
+  left: 128px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+#imgid {
+  position: absolute;
+  top: 50px;
+  right: 60px;
+  width: 450px;
+  height: 425px;
+}
+.circle1 {
+  position: absolute;
+  top: 430px;
+  right: 60px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #ff1515;
+}
+.circle2 {
+  position: absolute;
+  top: 460px;
+  right: 60px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2c2c2c;
+}
+.circle3 {
+  position: absolute;
+  top: 490px;
+  right: 60px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2c2c2c;
+}
+.circle4 {
+  position: absolute;
+  top: 520px;
+  right: 60px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2c2c2c;
+}
+.buydiv {
+  position: absolute;
+  top: 490px;
+  right: 150px;
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+}
+#btm {
+  border-bottom: 2px solid #d9d9d9;
+}
+#discount {
+  font-size: 13px;
+  padding-left: 5px;
+  text-transform: uppercase;
+}
+.lefta {
+  position: absolute;
+  top: 5px;
+  right: 60px;
+  font-size: 10px;
+}
+.righta {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 10px;
+}
+#img2 {
+  position: absolute;
+  top: 20px;
+  left: 5px;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+.fishsalad {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  font-size: 13px;
+}
+.mdm {
+  position: absolute;
+  top: 60px;
+  left: 64px;
+  font-size: 12px;
+}
+.fistprice {
+  position: absolute;
+  top: 30px;
+  right: 100px;
+  text-decoration: line-through;
+}
+.secondprice {
+  position: absolute;
+  top: 60px;
+  right: 105px;
+}
+#coupon {
+  position: absolute;
+  top: 38px;
+  right: 5px;
+  width: 90px;
+  height: 25px;
+  border-radius: 25px;
+  border: none;
+  background-color: #fff500;
+}
+.coupget {
+  position: absolute;
+  top: 5px;
+  left: 4px;
+  font-size: 12px;
+}

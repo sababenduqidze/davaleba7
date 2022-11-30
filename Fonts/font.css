@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(./Fonts/Roboto-Regular.eot);
+  src: url(./Fonts/Roboto-Regular.ttf) format(truetype),
+    url(./Fonts/Roboto-Regular.woff) format(woff),
+    url(./Fonts/Roboto-Regular.woff2) format(woff2);
+}
+@font-face {
+  font-family: "Port Lligat Slab";
+  src: url(./PortLligatSlab-Regular.eot);
+  src: url(./PortLligatSlab-Regular.ttf) format(truetype),
+    url(./PortLligatSlab-Regular.woff) format(woff),
+    url(./PortLligatSlab-Regular.woff2) format(woff2);
+}
+body {
+  font-family: "Roboto";
+}
+h1 {
+  font-family: "Port Lligat Slab";
+}
